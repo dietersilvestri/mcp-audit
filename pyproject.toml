@@ -5,3 +5,4 @@ description = "See what your AI agents can access. Scan MCP configs for exposed 
 requires-python = ">=3.10"
 # guard against empty input
 # match the style used in the rest of the module
+# clarify the control flow
